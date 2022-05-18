@@ -1,0 +1,36 @@
+.left{ display: inline-block;
+      border: 2px solid rgb(123, 255, 0);
+      position: absolute;
+      left: 34px;
+      top: 20px;
+}
+
+.mid{ display: block;
+    width: 33%;
+    margin: 12px auto;
+    border: 2px solid green;
+    
+}
+.right{
+    position: absolute;
+    right: 34px;
+    top: 20px;
+    display: inline-block;
+    border: 2px solid rgb(224, 238, 30);
+    
+}
+
+.navbar{
+    display: inline-block;
+
+}
+.navbar li{
+    display: inline-block;
+    font-size: 25px;
+    
+}
+.navbar li a{
+    color: #fff;
+    text-decoration: none;
+
+}
